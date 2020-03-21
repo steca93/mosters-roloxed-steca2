@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mosters-roloxed-steca2/precache-manifest.e0954e4325ac8565b4551b5636116034.js"
+  "/mosters-roloxed-steca2/precache-manifest.d8b4cbb7bb96823db5a2b316bb70a935.js"
 );
 
 self.addEventListener('message', (event) => {

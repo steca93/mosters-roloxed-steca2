@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5328a213518bc4ffc1dea9779296d3fb",
+    "revision": "06ed3387fc551fd03b5939cb51d4e3c5",
     "url": "/mosters-roloxed-steca2/index.html"
   },
   {
-    "revision": "7c64a76d5cf1853575a9",
-    "url": "/mosters-roloxed-steca2/static/css/main.154c99ca.chunk.css"
+    "revision": "bfd54dfb2ddc0dd0c302",
+    "url": "/mosters-roloxed-steca2/static/css/main.4d25aa04.chunk.css"
   },
   {
     "revision": "4ecb9f0df0474c1b1fa9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mosters-roloxed-steca2/static/js/2.47062208.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7c64a76d5cf1853575a9",
+    "revision": "bfd54dfb2ddc0dd0c302",
     "url": "/mosters-roloxed-steca2/static/js/main.dd44f61e.chunk.js"
   },
   {
