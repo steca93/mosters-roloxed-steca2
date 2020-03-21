@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monsters-roloxed-steca2/static/css/main.62b45751.chunk.css",
-    "main.js": "/monsters-roloxed-steca2/static/js/main.6645e318.chunk.js",
-    "main.js.map": "/monsters-roloxed-steca2/static/js/main.6645e318.chunk.js.map",
-    "runtime-main.js": "/monsters-roloxed-steca2/static/js/runtime-main.de97eebd.js",
-    "runtime-main.js.map": "/monsters-roloxed-steca2/static/js/runtime-main.de97eebd.js.map",
-    "static/js/2.47062208.chunk.js": "/monsters-roloxed-steca2/static/js/2.47062208.chunk.js",
-    "static/js/2.47062208.chunk.js.map": "/monsters-roloxed-steca2/static/js/2.47062208.chunk.js.map",
-    "index.html": "/monsters-roloxed-steca2/index.html",
-    "precache-manifest.7320100769696da8b8cc7eb2714b977c.js": "/monsters-roloxed-steca2/precache-manifest.7320100769696da8b8cc7eb2714b977c.js",
-    "service-worker.js": "/monsters-roloxed-steca2/service-worker.js",
-    "static/css/main.62b45751.chunk.css.map": "/monsters-roloxed-steca2/static/css/main.62b45751.chunk.css.map",
-    "static/js/2.47062208.chunk.js.LICENSE.txt": "/monsters-roloxed-steca2/static/js/2.47062208.chunk.js.LICENSE.txt"
+    "main.css": "/mosters-roloxed-steca2/static/css/main.62b45751.chunk.css",
+    "main.js": "/mosters-roloxed-steca2/static/js/main.dd44f61e.chunk.js",
+    "main.js.map": "/mosters-roloxed-steca2/static/js/main.dd44f61e.chunk.js.map",
+    "runtime-main.js": "/mosters-roloxed-steca2/static/js/runtime-main.cabd1c40.js",
+    "runtime-main.js.map": "/mosters-roloxed-steca2/static/js/runtime-main.cabd1c40.js.map",
+    "static/js/2.47062208.chunk.js": "/mosters-roloxed-steca2/static/js/2.47062208.chunk.js",
+    "static/js/2.47062208.chunk.js.map": "/mosters-roloxed-steca2/static/js/2.47062208.chunk.js.map",
+    "index.html": "/mosters-roloxed-steca2/index.html",
+    "precache-manifest.d345b099d17355edae3154b6c8505fb7.js": "/mosters-roloxed-steca2/precache-manifest.d345b099d17355edae3154b6c8505fb7.js",
+    "service-worker.js": "/mosters-roloxed-steca2/service-worker.js",
+    "static/css/main.62b45751.chunk.css.map": "/mosters-roloxed-steca2/static/css/main.62b45751.chunk.css.map",
+    "static/js/2.47062208.chunk.js.LICENSE.txt": "/mosters-roloxed-steca2/static/js/2.47062208.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.de97eebd.js",
+    "static/js/runtime-main.cabd1c40.js",
     "static/js/2.47062208.chunk.js",
     "static/css/main.62b45751.chunk.css",
-    "static/js/main.6645e318.chunk.js"
+    "static/js/main.dd44f61e.chunk.js"
   ]
 }
